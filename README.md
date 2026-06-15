@@ -46,7 +46,7 @@ The project demonstrates the practical use of **Machine Learning, Mobile Develop
 ---
 
 ## 🖼️ App Screenshots
-![App Screen 1]()  
+![App Screen 1](app_screen1.png)  
 ![App Screen 2]()
 ---
 
